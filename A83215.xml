@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Veneris, 13 Junii, 1645. An ordinance of the Lords and Commons assembled in Parliament, for the more speedy getting in of the monies in arreare, formerly imposed upon the bill of 400000 li. The ordinances for the fifty subsidies, weekly assessment, and weekly meale, within the city of London and liberties thereof. Joh. Brown, Cleric. Parliamentorum. H. Elsynge Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83215</idno>
+            <idno type="STC">Wing E1998</idno>
+            <idno type="STC">Thomason E288_16</idno>
+            <idno type="STC">ESTC R200102</idno>
+            <idno type="EEBO-CITATION">99860906</idno>
+            <idno type="PROQUEST">99860906</idno>
+            <idno type="VID">158569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Veneris, 13 Junii, 1645. An ordinance of the Lords and Commons assembled in Parliament, for the more speedy getting in of the monies in arreare, formerly imposed upon the bill of 400000 li. The ordinances for the fifty subsidies, weekly assessment, and weekly meale, within the city of London and liberties thereof. Joh. Brown, Cleric. Parliamentorum. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Richard Cotes,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158569:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>Die Veneris, 13 Junii, 1645.</p>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT, FOR THE More ſpeedy getting in of the Monies in Arreare, formerly Impoſed upon the Bill of 400000 <abbr>li.</abbr> The Ordinances for the Fifty Subſidies, Weekly Aſſeſſement, and Week<g ref="char:EOLhyphen"/>ly Meale, within the City of LONDON and Liberties thereof.</p>
+            <p>
+               <list>
+                  <item>Joh. Brown, Cleric. Parliamentorum.</item>
+                  <item>H. Elſynge Cler. Parl. D. Com.</item>
+               </list>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Richard Cotes</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158569:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:158569:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>AN ORDINANCE OF THE <hi>LORDS and COMMONS</hi> Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 13 Junii. 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of Parliament made in the ſeventeenth yeer of his Majeſties Reign that now is; Intituled, <hi>An Act for the raiſing and levying of Monies for the neceſſary Defence and great Affaires of the Kingdomes of</hi> England <hi>and</hi> Ireland, <hi>and for the payment of Debts undertaken by the Parlia<g ref="char:EOLhyphen"/>ment;</hi>
+               <pb n="2" facs="tcp:158569:3"/>
+               <!-- PDF PAGE 39 -->It was amongſt other things thereby Enacted, that the ſum of foure hundred thouſand pounds ſhould bee Aſſeſſed, levyed, and paid to ſuch perſons, and in ſuch manner, as in the ſaid Act is contained: And whereas by three ſeverail Ordinances of the Lords and Commons in Parliament Aſſembled, divers great ſums of money have been taxed and aſſeſſed, <hi>viz.</hi> The one of them bearing date on the fourth day of <hi>March,</hi> 1642. Inti<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uled, <hi>An Ordinance for the ſpeedy raiſing, and levy<g ref="char:EOLhyphen"/>ing of Monies for the maintenance of the Army raiſed by the Parliament, and other great affaires of the Common<g ref="char:EOLhyphen"/>wealth, by a weekly Aſſeſſement.</hi>
+            </p>
+            <p>One other of them bearing date, on, or about the eighteenth day of <hi>Auguſt</hi> 1643. <hi>For the ſpeedy ſupply of Monies within the City of</hi> London <hi>and Liberties there<g ref="char:EOLhyphen"/>of, for the reliefe and maintenance of the Armies raiſed, and to bee raiſed for the neceſſary Defence of the ſaid City and Liberties.</hi>
+            </p>
+            <p>And the other of them bearing date, on, or about the ſix and twentyeth day of <hi>March,</hi> 1644. Intituled, <hi>An Ordinance for the Contribution of the value of One Meale in a Week.</hi> A great part of which Monies Aſſeſſed by vertue of the aforeſaid Act and Ordinances, are yet unpaid, chiefely through the default of the ſeverall Collectors, Subcollectors, and other Officers appoin<g ref="char:EOLhyphen"/>ted for thoſe ſervices, to the great diſcouragement of thoſe who have willingly contributed and paid their ſeverall Rates and Aſſeſſements impoſed upon them, to the great diſſervice of the Common-wealth.</p>
+            <p>And foraſmuch as the Lord Major, Aldermen, and Commons of the City of <hi>London,</hi> in Common-Coun<g ref="char:EOLhyphen"/>cell
+<pb n="3" facs="tcp:158569:3"/>
+               <!-- PDF PAGE 39 -->aſſembled, out of their care to advance the publick ſervice, have by ſeverall Acts and Orders of the ſaid Common-Councell, nominated and appointed ſeverall perſons, Members of the ſaid Common-Councell, to be a Committee for the gathering in of Arrears, which ſaid Committee for want of a ſufficient power as well to compell Collectors and Officers heretofore ap<g ref="char:EOLhyphen"/>pointed for the ſervice aforeſaid, to bring in to them their Accompts and Moneys received, as alſo the per<g ref="char:EOLhyphen"/>ſons rated and taxed to pay the ſaid ſeverall ſums in ar<g ref="char:EOLhyphen"/>reare, could not performe ſuch ſervice as otherwiſe they might have done.</p>
+            <p>For remedy wherof, be it Ordained by the ſaid Lords and Commons, That the ſeverall perſons hereafter nominated and appointed by the ſaid Court of Com<g ref="char:EOLhyphen"/>mon-Councell for the getting in of the Arreares afore<g ref="char:EOLhyphen"/>ſaid, viz. Sir <hi>John Wollaſton</hi> Knight and Alderman, <hi>John Warner,</hi> and <hi>Thomas Andrews,</hi> Aldermen of the ſaid City, and <hi>Richard Glyd, William Antrobus, Walter Boothby, Francis Peck, Francis Aſh;</hi> Colonell <hi>Francis Weſt, Thomas Nowell, Thomas Blackwell, Chriſtopher Pack, John Greene, John Sadler, James Story, John Babbington, Thomas Arnold, John Dethicke, Iohn Holliday, Tobias Liſle, Thomas Lenthall, Thomas Brightwell, Peter Jones, Edwyn Brown, William Jeſſon, Randall Baskervile, Richard Young, Thomas Clowes, Alexander Jones, Richard Willet, Phi<g ref="char:EOLhyphen"/>lip Parker, Jo. Jurian, Richard Chiverton, James Wal<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, James Harbert, Hoogan Hovell, William Rowell,</hi> and <hi>William Beak,</hi> or any ſix of them ſhall bee a Commit<g ref="char:EOLhyphen"/>tee, and ſhall have hereby Power and Authority by themſelves, or ſuch as they ſhall appoint, to gather,
+<pb n="4" facs="tcp:158569:4"/>
+               <!-- PDF PAGE 40 -->levie and receive of all ſuch perſon and perſons as have been taxed and aſſeſſed within the Cities of <hi>London,</hi> and Liberties thereof, their Executors, or Adminiſtrators having ſufficient Aſſets, all ſuch ſumme and ſummes of money now in Arreare and rated, taxed and im<g ref="char:EOLhyphen"/>poſed upon them by vertue of the ſaid Act and Ordi<g ref="char:EOLhyphen"/>nances, or any of them, and to ſend for any ſuch per<g ref="char:EOLhyphen"/>ſon or perſons whereſoever they ſhall inhabite or bee found.</p>
+            <p>And it is Ordained by the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons, That all High-Collectors, Sub-Collectors, and other Officers which are already appointed by vertue of the ſaid Act and Ordinances, ſhall within three days after demand made by the ſaid Committee, or ſuch perſon or perſons as the ſaid Committee, or any of them ſhall appoint, after notice thereof given or left at his uſuall dwelling or place of abode, bring in their ſeverall Rolls, Bookes of Accompts, and Receipts, concerning the ſeverall ſummes taxed, levyed, or re<g ref="char:EOLhyphen"/>ceived by vertue of the ſaid Act and Ordinances; and alſo as well the ſaid High-Collectors, Sub-Collectors, and other Officers, having moneys in their hands, or due from them by vertue of the ſaid Act and Ordinan<g ref="char:EOLhyphen"/>ces, as all other perſon and perſons in Arreare and tax<g ref="char:EOLhyphen"/>ed, rated, or aſſeſſed by vertue thereof; ſhall imme<g ref="char:EOLhyphen"/>diately pay the ſame to the ſaid Committee, or to the Treaſurer or Treaſurers by them appointed to receive the ſame, any thing to the contrary heretofore ordai<g ref="char:EOLhyphen"/>ned notwithſtanding. And if any High-Collector, Sub-Collector, or other Officer already appointed for the
+<pb n="5" facs="tcp:158569:4"/>
+               <!-- PDF PAGE 40 -->ſervice aforeſaid, or any other perſon or perſons what<g ref="char:EOLhyphen"/>ſoever in Arreare as aforeſaid, ſhall fail therin, that then the ſaid Committee by ſuch perſon or perſons as they ſhall appoint by vertue of a Warrant from the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons for advance of mo<g ref="char:EOLhyphen"/>neys and other neceſſaries for the Army now ſitting at <hi>Haberdaſhers-Hall,</hi> ſhall levie the ſame ſumme and ſums of moneys ſo rated, taxed, or aſſeſſed, or in the hands and cuſtody of every ſuch perſon and perſons as afore<g ref="char:EOLhyphen"/>ſaid, by diſtreſſe of the Goods and Chattels of ſuch perſon and perſons neglecting or refuſing to pay the ſame in manner aforeſaid, and ſell the Goods ſo di<g ref="char:EOLhyphen"/>ſtrained for the ſervice aforefaid. And if any perſon or perſons ſhall ſtand out or forbeare to make payment of any ſumme and ſummes of money ſo in Arreare, or in his cuſtody as aforeſaid, untill a diſtreſſe ſhall be taken for the ſame; that then hee or they ſo ſtanding out or forbearing, ſhall pay all reaſonable charges for all ſuch diſtreſſe, removall and ſale of their Goods, as the ſaid Committee ſhall direct or appoint. And if no ſufficient diſtreſſe can be found or come by, that then the ſaid Committee by ſuch perſon or perſons as they ſhall appoint, and by ſuch warrant as aforeſaid, ſhall have hereby power and authority to com<g ref="char:EOLhyphen"/>mit every ſuch perſon and perſons to ſafe cuſto<g ref="char:EOLhyphen"/>dy, untill he or they ſhall ſatisfie and pay unto the ſaid Committee, or to the Treaſurer or Treaſurers by them appointed, the ſaid ſeverall ſummes of mo<g ref="char:EOLhyphen"/>ney.</p>
+            <p>And it is further Ordained by the ſaid Lords and
+<pb n="6" facs="tcp:158569:5"/>
+               <!-- PDF PAGE 41 -->Commons, That if any ſuch High-Collector, Sub-Collector, or other Officer heretofore appointed to le<g ref="char:EOLhyphen"/>vie, gather or receive any the ſummes of money afore<g ref="char:EOLhyphen"/>ſaid, ſhall faile after demand made as aforeſaid, to bring in to the ſaid Committee as aforeſaid the ſaid Rolls, Books of Accompts, or other Receipts concerning the ſeverall ſummes of money taxed, rated, or received by vertue of the ſaid Act or Ordinances as aforeſaid, ſhall bee committed to ſafe Cuſtody, by vertue of ſuch Warrant as aforeſaid, till hee or they ſhall conform him or themſelves, and give ſatisfaction to the ſaid Committee touching the ſame.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons, that all monies received and now in the hands of the ſaid Committee, appointed by the ſaid Common-Councell, and which hereafter ſhall bee received by the ſaid Committee or the Treaſurer or Treaſurers by them appointed upon the ſaid Act for the Royall Subſidies, ſhall bee from time to time by the ſaid Committee or Treaſurer paid into the Cham<g ref="char:EOLhyphen"/>ber of the City of <hi>London,</hi> and the Acquitances of the Chamberlain for the time being, ſhall bee to them a ſufficient diſcharge, to bee diſpoſed of as by the ſaid Act is directed; Any Proviſo heretofore made to the contrary not withſtanding: And all Money recelved, and to bee received by the ſaid Committee, or the Treaſurer or Treaſurers by them appointed, or to bee appointed, upon any other Aſſeſſement or Ordinance aforeſaid, ſhall bee by the ſaid Committee, Trea<g ref="char:EOLhyphen"/>ſurer, or Treaſurers paid to ſuch purpoſes, as by the
+<pb n="7" facs="tcp:158569:5"/>
+               <!-- PDF PAGE 41 -->ſaid ſeverall Ordinances is directed, and appoin<g ref="char:EOLhyphen"/>ted.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons, that it ſhall and may beelawfull, and the ſaid Committee ſhall hereby have full power and authority to uſe and imploy all ſuch Officers as now are, or which hereafter ſhall be nominated and choſen by the ſaid Committee, for the furtherance and better carrying on of the ſer<g ref="char:EOLhyphen"/>vice aforeſaid.</p>
+            <p>And it is further Ordained by the ſaid Lords and Common<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it ſhall and may bee lawfull to and for the laid Committee upon receipt of the ſaid ſeverall ſummes of Money in the hands of a<g ref="char:EOLhyphen"/>ny of the Collectors, Sub-collectors, and other Officers to make ſuch allowance thereout to the ſaid High Collectors, Sub-collectors, and other Officers, as by the ſaid Act and Ordinances are to be allowed.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons in regard of the great charges ne<g ref="char:EOLhyphen"/>ceſſarlly required to the getting in of the ſaid ſeve<g ref="char:EOLhyphen"/>rall Arreares, that it ſhall and may bee lawfull to and for the ſaid Committee, to deduct out of all ſuch Monies, as have been or ſhall bee brought in to them as aforeſaid, to bee diſpoſed of by the laid Committee for payment of Officers, and ſuch other Occaſions as they ſhall think ſit, except ſuch monies as have been already received upon the ſaid
+<pb n="8" facs="tcp:158569:6"/>
+               <!-- PDF PAGE 42 -->Act of Parliament for the Royell Subſidie, ſo much as to them ſhall bee thought neceſſary; So the ſame doe not exceed the ſumme of three pence per pound.</p>
+            <p>And it is Ordained, that all Majors, Sheriffes, Captaines, Lieutenants, Bayliffes, Conſtables, and all other Officers and Souldiers ſhall bee aid<g ref="char:EOLhyphen"/>ing and aſſifting to the ſaid Committee, and all ſuch Officers as ſhall bee imployed by them for the better Execution and performance of the ſaid Service.</p>
+            <p>And it is laſtly Ordained by the ſaid Lords and Commons, that whatſoever the ſaid Court of Common-councell, or the ſaid Committee appoin<g ref="char:EOLhyphen"/>ted by the ſaid Court as aforeſaid, or any of them, or the Perſons imployed and to bee imployed by them, have heretofore done, or ſhall hereafter doe for the furtherance of this Service, accord<g ref="char:EOLhyphen"/>ing to the Tenour and Purport of this or any for<g ref="char:EOLhyphen"/>mer Ordinance, or the Act of Parliament menti<g ref="char:EOLhyphen"/>oned in this Ordinance, they ſhall bee ſaved and kept harmleſſe and indemonifyed for the ſame, by the Authority of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Provided alwayes, that this Ordinance, or a<g ref="char:EOLhyphen"/>ny Clauſe, therein contained, ſhall not extend to the diſtraining of the Goods or commitment of the perſon of any. Peare of this Realm, nor any Aſſiſtant, Officer, or Attendant of the Houſe
+<pb n="9" facs="tcp:158569:6"/>
+               <!-- PDF PAGE 42 -->of Peeres, nor to any Member or Officer of the Houſe of Commons, nor to the ſending for any of the Perſons aforeſaid.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joh. Brown, Cleric. Parliamentorum.</item>
+                     <item>H. Elſynge Cler. Parl, Dom. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
